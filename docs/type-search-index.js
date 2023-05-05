@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eu.anonymous4doubleblinded.zoo","l":"Animal"},{"p":"eu.anonymous4doubleblinded.zoo","l":"DesktopLauncher"},{"p":"eu.anonymous4doubleblinded.zoo","l":"OpeningHours"},{"p":"eu.anonymous4doubleblinded.zoo","l":"Zoo"}]
